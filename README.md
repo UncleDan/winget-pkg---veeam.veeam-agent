@@ -1,0 +1,5 @@
+```
+URI......: https://download2.veeam.com/VAW/v6/VeeamAgentWindows_6.1.2.134.zip
+SHA256...: E0B215B7703CC5786E38002962287FC6236CBF86
+MD5......:    15637455AEC79B525BF3D54D984E54D0
+```
