@@ -1,6 +1,0 @@
-```
-URI......: https://download2.veeam.com/VAW/v6/VeeamAgentWindows_6.1.2.134.zip
-SHA256...: F74C09F9A634DD1ABF20DB64704A1C57C49331AEC34D0B0B917A9FBF5D61A147 (self calculated https://emn178.github.io/online-tools/sha256_checksum.html )
-SHA1.....: E0B215B7703CC5786E38002962287FC6236CBF86
-MD5......: 15637455AEC79B525BF3D54D984E54D0
-```
